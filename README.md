@@ -2,7 +2,7 @@
 
 This is my first program for studying Open Source SW
 
-# #Hello World
+# Hello World
 
 int main(void){
 	printf("Hello World\n");
